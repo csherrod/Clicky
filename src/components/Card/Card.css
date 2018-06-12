@@ -1,0 +1,19 @@
+.card {
+    max-height: 215px;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 40px;
+    background-color: #031c86;
+    color: #ffffff;
+}
+
+.card:hover {
+    bottom: 4px;
+}
+
+.content {
+    padding: 10px;
+    text-align: center;
+}

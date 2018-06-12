@@ -1,0 +1,71 @@
+[{
+    "id": 1,
+    "name": "Thibaut Courtois",
+    "image": "./images/ThibautCourtoiscopy.png"
+  },
+  {
+    "id": 2,
+    "name": "Alvaro Morata",
+    "image": "./images/AlvaroMoratacopy.png"
+  },
+  {
+    "id": 3,
+    "name": "Cesar Azpilicueta",
+    "image": "./images/CesarAzpilicuetacopy.png"
+  },
+  {
+    "id": 4,
+    "name": "Cesc Fabregas",
+    "image": "./images/CescFabregascopy.png"
+  },
+  {
+    "id": 5,
+    "name": "Danny Drinkwater",
+    "image": "./images/DannyDrinkwatercopy.png"
+  },
+  {
+    "id": 6,
+    "name": "Davide Zappacosta",
+    "image": "./images/DavideZappacostacopy.png"
+  },
+  {
+    "id": 7,
+    "name": "David Luiz",
+    "image": "./images/DavidLuizcopy.png"
+  },
+  {
+    "id": 8,
+    "name": "Eden Hazard",
+    "image": "./images/EdenHazardcopy.png"
+  },
+  {
+    "id": 9,
+    "name": "N'golo Kante",
+    "image": "./images/N'goloKantecopy.png"
+  },
+  {
+    "id": 10,
+    "name": "Olivier Giroud",
+    "image": "./images/OlivierGiroudcopy.png"
+  },
+  {
+    "id": 11,
+    "name": "Gary Cahill",
+    "image": "./images/GaryCahillcopy.png"
+  },
+  {
+    "id": 12,
+    "name": "Victor Moses",
+    "image": "./images/VictorMosescopy.png"
+  },
+  {
+    "id": 13,
+    "name": "Willian",
+    "image": "./images/Williancopy.png"
+  },
+  {
+    "id": 14,
+    "name": "Marcos Alonso",
+    "image": "./images/MarcosAlonsocopy.png"
+  }
+]
